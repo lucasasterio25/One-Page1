@@ -1,0 +1,129 @@
+
+
+@media(max-width:768px){
+    body{
+        margin: 2px 2px 2px 2px;
+    }
+
+	.esconder {
+		display: none;
+	}
+    img#card{
+        margin-top: 10px;   
+        width: 120px;
+    } 
+    .margin1{
+        margin-bottom: 10px;
+    }
+
+    img#logo{
+        max-width: 300px;
+    }
+
+    img#usuario{
+        width: 100px;
+        margin-bottom: 10px;
+        border-radius: 30px;
+} 
+
+}
+@media(min-width:768px){
+    img#card{
+    width: 200px;
+}   
+    img#usuario{
+    width: 500px;
+    border-radius: 30px;
+}
+
+    img#banner{
+    width: 350px;
+    height: 350px;
+}
+    img#img-pag{
+    margin-left: 185px;
+}
+	.esconder {
+		display: none;
+	}
+    .centro{
+        text-align: center;
+        align-items: center;
+        align-content: center;
+}
+    .direita{
+        text-align: right;
+        align-items: right;
+        align-content: right;
+        margin-right: 50px; 
+}
+    img#logo{
+        width: 300px;
+        height: 100px;
+    }
+
+    .tamanho{
+        font-size: 80px;
+    }
+
+
+
+}
+
+.btn-pagto {
+        background-color: #f0ad4e;
+        color: white;
+        font-weight: bolder;
+        padding: 10px;
+        height: 50%;
+        border-radius: 50px;
+        border: none;
+        text-align: center;
+    }
+
+.btn-pagto:hover {
+        background-color: #f0ad4e;
+}
+
+
+img#card{
+    border-radius: 20px;
+}
+
+div#borda1 {
+    margin-top: 100px;
+    background-color: #fff;
+}
+
+.preto{
+    color: black;
+}
+
+div#cadastro{
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 20px;
+}
+
+.well{
+    background-color: white;
+}
+
+
+
+a#font-nav{
+    color: white;
+}
+
+.dourado{
+    background:url("../img/footer.jpg") repeat;
+}
+
+.cabecalho{
+    background:url("../img/cabecalho.jpg") repeat;
+}
+
+.cabecalho2{
+    background:url("../img/cabecalho2.jpg") repeat;
+}
